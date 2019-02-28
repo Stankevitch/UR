@@ -1,0 +1,53 @@
+===== 
+Title 
+===== 
+
+
+Subtitle 1
+----------
+ 
+
+
+**Bold**
+
+| Click `here <https://vk.com>`_ to continue
+|       Line breaks and initial indents 
+|       are preserved. 
+|              Line breaks and initial indents 
+|              are preserved. 
+
+
+Pickture as link:
+
+The |biohazard|_ its link. 
+
+.. |biohazard| image:: http://docutils.sourceforge.net/docs/user/rst/images/biohazard.png 
+   :height: 31
+   :width: 31
+
+.. _biohazard: http://docutils.sourceforge.net/docs/user/rst/images/biohazard.png
+
+ 
+
+The list:
+
++ line 1 
++ line 2
+
+  -  Subline 2.1
+  -  Subline 2.2
++ line 3  
+
+
+The auto list:
+
+#. line 1 
+#. line 2
+#. Subline 2.1
+#. Subline 2.2
+ 
+`RFC 2396`__ and `RFC 2732`__ together define the syntax of URIs.
+
+__ http://docutils.sourceforge.net/docs/user/rst/images/biohazard.png
+__ http://www.rfc-editor.org/rfc/rfc2732.txt
+
