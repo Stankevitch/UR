@@ -56,5 +56,5 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT 
 .. bottom of content
 
 .. |IMG1| image:: static/T-TEXT_1.png
-   :height: 78 px
+   :height: 7008 px
    :width: 170 px
